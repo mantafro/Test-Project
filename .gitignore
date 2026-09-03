@@ -8,5 +8,7 @@ node_modules/
 /playwright/.auth/
 
 # Python
+.venv/
+.pytest_cache/
 __pycache__/
 *.py[cod]
